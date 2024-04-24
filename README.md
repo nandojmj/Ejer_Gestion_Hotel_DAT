@@ -1,4 +1,4 @@
-# Sistema de Gestión Hotelera en C++ alamacenando en un .DAT
+# Sistema de Gestión Hotelera en C++ almacenando en un .DAT
 
 Este es un sistema de gestión hotelera desarrollado en C++ que permite gestionar las reservas de un hotel, registrar consumos, generar facturas y realizar búsquedas de huéspedes.
 
